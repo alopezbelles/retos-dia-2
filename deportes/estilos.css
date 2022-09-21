@@ -1,0 +1,25 @@
+table{
+    border: 1px solid;
+    background-color: #cdf2c2;
+}
+
+td{
+    border: 1px solid;
+    background-color: #cdf2c2;
+}
+
+tr{
+    border: 1px solid;
+    background-color: #cdf2c2;
+}
+
+th{
+    border: 1px solid;
+    background-color: #2f4728;
+    color: #cdf2c2;
+}
+
+.fila3{
+    background-color: #799671;
+}
+
